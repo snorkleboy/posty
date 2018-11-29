@@ -1,3 +1,4 @@
+```
 posti-t note app
 
 
@@ -52,7 +53,7 @@ controls:
     create/edit CanvasInstance
     AddViewer
     AddEditor
-    
+
 
 ```
 postableFactory{
@@ -113,3 +114,4 @@ postableFactory{
 ...
 
 * virtual canvas not html5 canvas
+```
