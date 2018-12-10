@@ -1,0 +1,22 @@
+{
+  "featureNames":{
+    "filters":"filters",
+    "list":"list",
+    "quickTest":"quickTest"
+  },
+  
+  "filters":{
+    "Weather":"Weather",
+    "BVFilters":"BVFilters",
+    "Default":"Default",
+    "randomDec":"randomDec"
+  },
+  
+  "list":{
+    
+  },
+  
+  "quickTest":{
+    
+  }
+}

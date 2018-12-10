@@ -1,0 +1,21 @@
+{
+  "_featureNames": {
+    "decoratedRedditTutorial": "decoratedRedditTutorial",
+    "filters": "filters",
+    "list": "list",
+    "newFeature": "newFeature",
+    "quickTest": "quickTest",
+    "reddit": "reddit",
+    "tutorialStartingOut": "tutorialStartingOut"
+  },
+  "decoratedRedditTutorial": {
+    "menu": "menu",
+    "config": "config"
+  },
+  "filters": {
+    "Weather": "Weather",
+    "BVFilters": "BVFilters",
+    "Default": "Default",
+    "randomDec": "randomDec"
+  }
+}
